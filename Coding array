@@ -1,0 +1,17 @@
+#no1
+dict =("_ _ _"*22)
+dict =("APLIKASI SEDERHANA MENGGUNAKAN STRING DAN ARRAY")
+dict =("_ _ _"*22)
+dict ={"nama":"ahmad masyruhan","nim":"20121063","kelas":"TI3B","alamat":"desa ngadirejo"}
+print ("dict")
+#no2
+print ("_ _ _"*22)
+print ("APLIKASI SEDERHANA MENGGUNAKAN STRING DAN ARRAY")
+print ("_ _ _"*22)
+print ("nama    :",dict["nama"])
+print ("nim     :",dict["nim"])
+print ("kelas   :",dict["kelas"])
+print ("alamat  :",dict["alamat"])
+# no3
+print ("mahasiswa UNISS batang semester 3 pada belajar di ruang lab dengan tema array, string, dan struktur data") 
+print ("dict")
